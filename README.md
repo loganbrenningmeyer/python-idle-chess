@@ -10,8 +10,9 @@ Features:
   - Random white/black selection
   - Capturing
   - Check/Checkmate
-  - Stalemate/Draw
+  - Stalemate/Draw by Insufficient Material
   - Castling
+  - Input moves in form PiecePosition (White Queen to H5: WQH5)
   - Save/Load games
     * Stores file with name "Player1Player2.chs" in Chess.py folder
     * Select LOAD GAME and input proper Player 1 Name/Player 2 Name
