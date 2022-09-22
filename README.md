@@ -17,7 +17,7 @@ Features:
     * Select LOAD GAME and input proper Player 1 Name/Player 2 Name
       - Two players can have two concurrent games (Player1Player2.chs & Player2Player1.chs)
 
-  *No En Passant
+  - No En Passant
 
 
 Game Layout:
