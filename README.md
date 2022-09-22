@@ -1,4 +1,4 @@
-# Python Idle Chess
+# Python IDLE Chess
 
 PvP Chess on Python IDLE. All the features of traditional chess except en passant. Can save/load games or overwrite current save.
 
